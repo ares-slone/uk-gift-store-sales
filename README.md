@@ -168,3 +168,118 @@ Within each category, there are some stand out products and patterns:
 	-   Picnic Baskets peak in June, at the beginning of picnic season
 [Visualization specific to category]
 
+## Customer Success
+
+- The top 10 customers make up **14.7% of total revenue**
+- **6 customers had yearly purchases of over £100,000**
+
+Within the reported time period, these customers:
+
+- - Averaged 85 orders
+      - Averaged 90k units ordered
+      - **Primarily purchased Home Decor and Kitchen & Dining products**, although proportions depend on the customer
+
+As this company's customers consist primarily of wholesalers who will make repeat bulk orders, understanding the products they are providing for their customers will help the team establish loyalty and introduce customers to new, related products.
+
+Below are customer profiles for the customers purchasing over £100,000 in the reporting period
+
+### Customer 14646
+
+- This customer placed orders in almost every month of the reporting period, marking them as a consistent customer
+  - Volume of sales reflect overall sales trends with highest sales volume in Q4, but with an additional peak in August
+  - Proportion of sales between product categories remained fairly consistent throughout the year
+- Product types this customer tends to purchase include lunch boxes or bags, night lights, and products with woodland themes, including forest animals and mushroom patterns
+	- This customer made increasing bulk purchases of the Rabbit Nightlight after its introduction in May, suggesting this product type does well with for this customer
+
+| **Top Categories**    | **Sales Volume per Category** | **Top Item Ordered in Category** | **Sales Volume per Item** |
+| --------------------- | ----------------------------- | -------------------------------- | ------------------------- |
+| **Kitchen & Dining**  | **£114,711**                  | Round Snack Boxes Set of 4       | £7,956                    |
+| Home Decor            | £58,611                       | **Rabbit Night Light**           | **£9,568**                |
+| Jewelry & Accessories | £31,144                       | Jumbo Bag Red Retrospot          | £3,468                    |
+
+### Customer 18102
+
+- This customer made purchases every month of the reporting period, but monthly sales volume varies widely from a low of under £1,000 to over £52,000
+  - The highest sales volume, and highest sales months were in Q4
+- Purchases were almost solely from the Home Decor product category with 85% of revenue from Home Decor products
+- Product types this customer tends to purchase include wall hangings and door mats
+
+| **Top Categories**     | **Sales Volume per Category** | **Top Item Ordered in Category**  | **Sales Volume per Item** |
+| ---------------------- | ----------------------------- | --------------------------------- | ------------------------- |
+| **Home Decor**         | **£220,898**                  | **Vintage Union Jack Memoboard**  | **£16,592**               |
+| Stationery & Gift Wrap | £15,351                       | Wood Black Board Ant White Finish | £15,351                   |
+| Kitchen & Dining       | £11,998                       | Bread Bin Diner Style Red         | £839                      |
+
+### Customer 17450
+
+- While orders were placed throughout the year, by far and away the largest sales month was September at £70,629
+- Home Decor was the top product category, making up 59% of the customer's sales volume
+  - Kitchen & Dining products, despite being the second top category, were primarily purchased during peaks in June and September
+- This customer purchases a variety of home decor items, but wicker heart wall hangings and tea light holders were significant outliers among purchased products
+
+| **Top Categories** | **Sales Volume per Category** | **Top Item Ordered in Category**    | **Sales Volume per Item** |
+| ------------------ | ----------------------------- | ----------------------------------- | ------------------------- |
+| **Home Decor**     | **£111,374**                  | **Heart of Wicker Large**           | **£13,428**               |
+| Kitchen & Dining   | £48,978                       | Set of Tea Coffee Sugar Tins Pantry | £10,567                   |
+| Gifts & Novelties  | £7,493                        | Scottie Dog Hot Water Bottle        | £2,530                    |
+
+### Customer 14911
+
+- The customer's sales volume trend mimics the overall sales trend. The highest volume and peaks are in Q4
+- Although Kitchen & Dining and Home Decor are flipped for the top two categories, category trends otherwise mimic the overall sales trends for categories, with the top two categories far outpacing all others until Q4 where Celebration & Seasonal products significantly increases
+- The product types this customer tends to buy are those with an 'older' style, with products labeled "vintage" and "regency" being top purchases
+  - There are also more Christmas specific product purchases, particularly "vintage" Christmas products, likely accounting for the increase in the Celebration & Seasonal category in Q4
+
+| **Top Categories**     | **Sales Volume per Category** | **Top Item Ordered in Category**   | **Sales Volume per Item** |
+| ---------------------- | ----------------------------- | ---------------------------------- | ------------------------- |
+| **Kitchen & Dining**   | **£43,941**                   | **Regency Cakestand 3 Tier**       | **£3,591**                |
+| Home Decor             | £33,508                       | White Hanging Heart T-Light Holder | £2,010                    |
+| Celebration & Seasonal | £13,996                       | Paper Chain Kit 50s Christmas      | £1,046                    |
+
+### Customer 12415
+
+- Overall sales trends are far less consistent with changing category proportions and sales volume peaks differing greatly from overall trends. Notably, the Q4 increase isn't seen.
+  - Monthly sales range from 0 to £23k, with higher volume every 2-3 months
+- While Kitchen & Dining and Home Decor are the highest categories, Kitchen & Dining had the most sales in the first half of the year before decreasing dramatically, while Home Decor products only began to be purchased in May with the Rabbit Night Light product was introduced
+  - Notably, the Rabbit Night Light is the top purchased product overall
+
+| **Top Categories**   | **Sales Volume per Category** | **Top Item Ordered in Category**  | **Sales Volume per Item** |
+| -------------------- | ----------------------------- | --------------------------------- | ------------------------- |
+| **Kitchen & Dining** | **£48,692**                   | Set of 6 Spice Tins Pantry Design | £1,987                    |
+| Home Decor           | £24,101                       | **Rabbit Night Light**            | **£2,748**                |
+| Toys, Games, & Kids  | £13,919                       | Red Harmonica in Box              | £1,781                    |
+
+### Customer 14156
+
+- Notably, sales trends differ entirely from overall sales trends, with the largest peak of over 25k in July. While there's a secondary peak in September, sales are otherwise not elevated in Q4, although the proportion of Home Decor items does increase
+- The product types this customer tends to purchase are Kitchen & Dining related, with the top items in other categories still being related to cooking
+
+| **Top Categories**     | **Sales Volume per Category** | **Top Item Ordered in Category** | **Sales Volume per Item** |
+| ---------------------- | ----------------------------- | -------------------------------- | ------------------------- |
+| **Kitchen & Dining**   | **£47,417**                   | **Regency Cakestand 3 Tier**     | **£3,119**                |
+| Home Decor             | £32,359                       | Cook with Wine Metal Sign        | £1,983                    |
+| Storage & Organization | £6,401                        | Recipe Box Pantry Yellow Design  | £1,330                    |
+
+
+
+
+# Recommendations
+
+-   **Reevaluate underperforming products:** Many categories have many underperforming products, in particular **Gifts & Novelties and Jewelry & Accessories**. **Home Fragrance & Wellness** as a whole is underperforming, minus a few outlier products. Given that the main audience is wholesalers, narrowing focus to products which sell in bulk over variety can reduce storage and inventory costs without reducing potential sales.
+    
+-   **Look to capitalize on holiday stock needs for wholesalers in Q4:** While inventory needs for wholesale customers should increase in Q4, AOV does not, which suggests that the company is missing an opportunity for increased wholesaler sales for the holiday season.
+    
+-   **Create a B2B success program:** As wholesalers are the main customer, and need to buy consistently in bulk, sales can potentially be increased by understanding their needs and directing them to similar products which may appeal to their audience, as well as offering discounts to increase loyalty and consistency.
+    
+-   **Consider summer holiday products:** A notable outlier in products are picnic baskets, which have the highest individual product sales peak. This suggests that there may be an untapped market for summer related products for outdoor recreation and gatherings which can help increase sales in Q2.
+    
+
+
+# Assumptions and Caveats
+
+Throughout the analysis, assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+
+- December 2011 was left out of the analysis as data collection ended halfway through the month
+- Approximately 25% of the rows did not include a customer ID. For the analysis, it is assumed that these are normal transactions but the customers do not overlap with any of those with an ID.
+- Around 0.5% of the data was entered with a unit price of ‘0’. Notes in the data suggest these entries are for correcting various stock errors, and so were used in the analysis as is to maintain an accurate sales volume.
+- Category types were primarily generated with an AI tool given only the product names as input. While these category types were manually cleaned to ensure no obvious miscategorizations, there may still be some errors due to unclear descriptions, or lack of clarity as to how the store itself groups products.
