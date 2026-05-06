@@ -73,7 +73,7 @@ Overall, while the pattern of sales during the reporting period would suggest th
 
 [put picture here]  
 
-## [WIP] Products
+## Products
 
 -   **The overall largest product category is Home Decor** with £3,123,550 total in sales, 30% of total revenue.
 -   **Kitchen & Dining follows close behind** with £2,462,466 total in sales, 24% of total revenue.
@@ -89,7 +89,7 @@ Overall, while the pattern of sales during the reporting period would suggest th
     
 [Visualization specific to category 2 (stacked % of category per month]
 
-## [WIP] Product Categories
+## Product Categories
   
 Within each category, there are some stand out products and patterns:
 
