@@ -116,6 +116,7 @@ Within each category, there are some stand out products and patterns:
 -   Bling Key Rings and Crochet keyrings are significant underperformers in the category, making far less than other products with a similarly low unit price
 
 **Home Decor & Accents:**
+
 -   Home Decor contains 4 of the top performers in terms of revenue. Compared to other categories, Home Decor has a significant amount of higher revenue items with 32 products making over £20k in revenue  
 -   Each of the top products except the Rabbit Nightlight have fairly consistent sales throughout the year with a slight increase in November, reflecting the overall store increase
 	-   The Rabbit Nightlight was introduced in May, and jumped from around £3k in sales per month to over £34k in sales in November. This is the second highest individual product sales peak across all inventory
@@ -126,11 +127,12 @@ Within each category, there are some stand out products and patterns:
 
 **Jewelry & Accessories:**
 -   The large outlier is Jumbo Bag Red Retrospot with £92,175 in revenue, while the next highest performer is Jumbo Bag Pink Polkadot with £41,584   
-	-   Overall, Jumbo Bags are the by and away the top performers in this category, holding 8 of the top 10 spots in the category   
+	-   Overall, Jumbo Bags are the by and away the top performers in this category, holding 8 of the top 10 spots in the category  
 -   This category has a significantly long tail of underperforming products, with 295 items earning under £100 in revenue and 469 products earning under £1000 in revenue    
 -   In general, jewelry and hair accessories perform poorly, while bags do fairly well
 
 **Kitchen & Dining:**
+
 -   The Regency Cakestand is the top performer in this category and overall, earning £164,459 in revenue. The next highest is Set of 3 Cake Tins Pantry Design at £37,378   
 -   While there is a massive gap between the top performer and next highest performing product, the category has a large number of high performers, with 24 products making over £20k   
 -   Lunch boxes perform fairly well, with the lowest performing lunchbox earning £7,820, but most earning over £20k   
@@ -138,10 +140,12 @@ Within each category, there are some stand out products and patterns:
 -   Mugs’ performance has some of the largest range, with the top performing Save the Planet Mug earning £5,938 and the lowest performing mug being Funky Monkey Mug at £1.25
 
 **Stationary & Gift Wrap:**
+
 -   The top performer is Wood Black Board Ant White Finish with £35,795, with the next top performers being Paper Bunting Retrospot at £22,588 and Paper Chain Kit Empire at £14,978    
 -   Sets of 10 Cards make up most of the bottom performers. While cards in general don’t necessarily perform poorly as a few do perform significantly better, well performing cards seem to be the outlier
--   
+   
 **Storage & Organization:**
+
 -   This category has two outliers: Picnic Basket Wicker Small at £51,023 and Popcorn Holder at £50,967   
 	-   Most of the Picnic Basket sales were due to the June peak, with a monthly revenue of £40,298. This is the largest individual product sales peak across all inventory   
 -   Popcorn Holder sales were more steady, with an average monthly revenue of £2,872 before a November peak of £13,961 
