@@ -216,8 +216,14 @@ Within each category, there are some stand out products and patterns:
 -   The top performer is Red Harmonica in Box at £26,210, with the next top performer being Grow a Flytrap or Sunflower in Tin at £17,837
     
 
-[Visualization specific to category (top 3 products per category sales chart?)]
 
+<br>
+<br>
+<div align="center">
+  <img src="images/Top Two Products per Category.png" width="800">
+</div>
+
+<br>
 <br>
 
 ## Specific Products
@@ -235,7 +241,7 @@ Within each category, there are some stand out products and patterns:
 <br>
 <br>  
 <div align="center">
-  <img src="images/Top product sales.png" width="800">
+  <img src="images/Top product sales.png" width="400">
 </div>
 
 
