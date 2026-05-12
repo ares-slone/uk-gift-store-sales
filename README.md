@@ -219,7 +219,7 @@ Within each category, there are some stand out products and patterns:
 <br>
 <br>
 <div align="center">
-  <img src="images/Top Two Products per Category.png" width="800">
+  <img src="images/Top Two Products per Category.png" width="600">
 </div>
 
 <br>
@@ -240,7 +240,7 @@ Within each category, there are some stand out products and patterns:
 <br>
 <br>  
 <div align="center">
-  <img src="images/Top product sales.png" width="400">
+  <img src="images/Top product sales.png" width="800">
 </div>
 
 
