@@ -85,13 +85,12 @@ Overall, while the pattern of sales during the reporting period would suggest th
 -   Notably, **AOV remains mostly steady throughout the year**, with a slight dip in April, being the lowest at £282, with September being the highest at £446. This suggests that while more orders are being made later in the year, the amount purchased per customer holds steady despite intuition suggesting wholesalers may need more stock for the holiday rush.
 
 <br>
-<br>
+<br>   
 <div align="center">
-  <img src="https://example.com" alt="Centered Image">
+  <img src="images/Total Sales.png" width="800">
 </div>
-
-
 <br>
+
 
 ## Products
 
