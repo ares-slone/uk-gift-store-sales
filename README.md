@@ -60,7 +60,7 @@ The data was further checked for quality control and additional information adde
 
 # Executive Summary
 
-For the reporting period between December 2010 and November 2011, **sales totaled £8,848,305** with an **average AOV of £386**. **Sales are fairly steady in Q1-Q3** with an average monthly sales total of £634k, **then increase over Q4** with a significant peak in November, while AOV remains steady throughout the year. **Top product categories are Home Decor and Kitchen & Dining** by a wide margin, comprising 30% and 24% of total sales respectively.
+For the reporting period between December 2010 and November 2011, **sales totaled £8,848,305** with an **average AOV of £386**. **Sales are fairly steady in Q1-Q3** with an average monthly sales total of £634k, **then increase over Q4** with a significant peak in November, while AOV remains steady throughout the year. **Top product categories are Home Decor & Accents and Kitchen & Dining** by a wide margin, comprising 30% and 24% of total sales respectively.
 
 Overall, while the pattern of sales during the reporting period would suggest that end of year holidays are the main driving factor of sales, the top product categories, individual product purchase patterns, and AOV trends suggest otherwise. The following sections of this report will highlight these contrasting patterns and suggest potential areas of growth to expand on both seasonal and non seasonal sales.
 
@@ -94,12 +94,12 @@ Overall, while the pattern of sales during the reporting period would suggest th
 
 ## Products
 
--   **The overall largest product category is Home Decor** with £3,123,550 total in sales, 30% of total revenue.
+-   **The overall largest product category is Home Decor & Accents** with £3,123,550 total in sales, 30% of total revenue.
 -   **Kitchen & Dining follows close behind** with £2,462,466 total in sales, 24% of total revenue.
--   Home Decor’s and Kitchen & Dining’s difference in revenue comes mostly from Home Decor having a sales spike between September and November
+-   Home Decor & Accents’ and Kitchen & Dining’s difference in revenue comes mostly from Home Decor & Accents having a sales spike between September and November
 -   **All other categories contribute 2-7% each to total revenue**
 -   Many categories have distinct patterns of sales peaks through the year:
-	-  Home Decor increases in March and May, with its highest sales volume in September through November
+	-  Home Decor & Accents increases in March and May, with its highest sales volume in September through November
 	-  Celebration & Seasonal increases only towards the end of the year, reflecting the high number of Christmas and Halloween items 
 	-   Jewelry and Fashion increases in March and May, but doesn’t increase in Q4  
 	-   Storage and Organization has a unique peak in June  
